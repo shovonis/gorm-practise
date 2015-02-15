@@ -1,10 +1,5 @@
 <%@ page import="gormpractiseproject.Individual" %>
 
-%{--This is a common template that we used both for create and update --}%
-%{--in almost every places in our application. --}%
-%{--The id did not match with the individual address instance --}%
-%{--so data doesn't save while creating a new object.--}%
-
 <g:hiddenField name="${prefix}.id" value="${address?.id}"/>
 <g:hiddenField name="${prefix}.version" value="${address?.version}"/>
 

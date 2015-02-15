@@ -8,5 +8,7 @@ class Individual implements Serializable{
     IndividualAddress officeAddress
 
     static constraints = {
+        homeAddress(nullable: true)
+        officeAddress(nullable: true)
     }
 }

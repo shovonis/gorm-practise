@@ -8,5 +8,7 @@ class IndividualAddress implements Serializable {
     String roadNo
 
     static constraints = {
+        houseNo(blank: false)
+        roadNo(blank: false)
     }
 }

@@ -26,7 +26,7 @@ class IndividualController {
     //This is a simple illustration of our application wide data binding problem.
     def save = {
         Individual individualInstance = new Individual()
-        bindData(individualInstance, params) // Cannot bind Individual Address as id doesn't match.
+        bindData(individualInstance, params) // Cannot bind Individual Address
 
         if (individualInstance == null) {
             notFound()
