@@ -1,0 +1,17 @@
+.*
+!.gitignore
+,*
++*
+*.ipr
+*.iws
+*.iml
+bundles
+domain-lib
+stacktrace.log
+target/*
+build/*
+plugins/*
+buildPlugins/*
+out
+pom.xml.*
+grails-app/conf/rebel.xml
