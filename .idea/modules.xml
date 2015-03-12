@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/GormPractiseProject.iml" filepath="$PROJECT_DIR$/GormPractiseProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/GormPractiseProject-grailsPlugins.iml" filepath="$PROJECT_DIR$/GormPractiseProject-grailsPlugins.iml" />
       <module fileurl="file://$PROJECT_DIR$/gorm-practise.iml" filepath="$PROJECT_DIR$/gorm-practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gorm-practise-grailsPlugins.iml" filepath="$PROJECT_DIR$/gorm-practise-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
