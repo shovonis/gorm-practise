@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" />
     <resourceExtensions />
@@ -64,6 +65,25 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
+=======
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="IdProvider" IDEtalkID="1955F769E2754A1D8D917B35A956305F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+>>>>>>> 6a2af3084ec1802b048b8a86e4082a8441a8695b
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -166,7 +186,11 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>1.7 (1)</last-edited>
+=======
+          <last-edited>1.7</last-edited>
+>>>>>>> 6a2af3084ec1802b048b8a86e4082a8441a8695b
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -178,4 +202,9 @@
       </state>
     </states>
   </component>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+
+>>>>>>> 6a2af3084ec1802b048b8a86e4082a8441a8695b
